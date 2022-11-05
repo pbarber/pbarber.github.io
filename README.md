@@ -2,7 +2,7 @@
 
 * [linkedin](https://www.linkedin.com/in/pauljbarber/)
 * [twitter](https://twitter.com/paulblablah)
-* [github](https://github.com/pbarber))
+* [github](https://github.com/pbarber)
 
 I use this site to archive posts from my old company website at [codeandnumbers.co.uk](codeandnumbers/README.md). Reading them now is a bit like reading my teenage poetry, if I had written any, both highly embarrassing and strangely comforting. The posts, newest first, are:
 
