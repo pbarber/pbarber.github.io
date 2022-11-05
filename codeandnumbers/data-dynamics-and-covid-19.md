@@ -2,6 +2,8 @@
 
 *This post was originally published on codeandnumbers.co.uk on 19th April 2021*
 
+*It is also available in [tweet form](https://twitter.com/paulblablah/status/1384802570149969922) for those who prefer a less verbose format*
+
 I recently set up a [bot](https://twitter.com/ni_covid19_data) to tweet out summaries of regularly published COVID-19 official statistics for Northern Ireland (NI) including:
 
 * daily updates on [vaccinations](https://twitter.com/ni_covid19_data/status/1379410662745604098)
