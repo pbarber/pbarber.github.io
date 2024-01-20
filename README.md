@@ -3,6 +3,33 @@
 * [linkedin](https://www.linkedin.com/in/pauljbarber/)
 * [twitter](https://twitter.com/paulblablah)
 * [github](https://github.com/pbarber)
+* [buymeacoffee](https://buymeacoffee.com/pbarber)
+
+## Things I've made
+
+Most recent first:
+
+* [NI Isochrones App](https://pbarber.github.io/ni-travel-app/)
+* [Map of the Rivers and Lakes of Ireland](https://github.com/pbarber/river-maps/blob/master/README.md)
+* [NI COVID-19 data Twitter/X bot](https://twitter.com/ni_covid19_data)
+
+## Isochrones map
+
+![NI isochrones](https://pbarber.github.io/ni-travel-app/ni-travel-maps.png)
+
+These are isochrones, which show how far you can travel from a starting point in a certain time. In this case, in one hour using public transport or walking from four locations in NI. The maps are based on a detailed open dataset that I haven't seen visualised until now.
+
+I've put together [an interactive map](https://pbarber.github.io/ni-travel-app/) so you can explore the dataset for yourself.
+
+If there's a good level of interest I may extend the interactive map to cover all of the UK.
+
+## Ireland's river basins
+
+![Ireland's river basins](ie_rivers_lakes-Hokusai2-7.png)
+
+It's amazing what is possible with less than 300 lines of code, some open data and several open source libraries. I put together this map of the rivers, lakes and streams of Ireland, coloured by river basin. A decade ago, this would only have been possible with months of effort or access to expensive specialised software.
+
+## Code and Numbers
 
 I use this site to archive posts from my old company website at [codeandnumbers.co.uk](codeandnumbers/README.md). Reading them now is a bit like reading my teenage poetry, if I had written any, both highly embarrassing and strangely comforting. The posts, newest first, are:
 
