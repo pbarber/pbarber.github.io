@@ -24,6 +24,8 @@ I haven't used [Flourish](https://public.flourish.studio/story/2630542/) before,
 
 [Cursor](https://cursor.com/) wrote the code to pull down the dataset from Google Trends using [pytrends](https://github.com/GeneralMills/pytrends), demonstrating how the combination of web services, open source libraries and AI has changed coding into 'specify and test'.
 
+The code is [here](https://github.com/pbarber/head-lice).
+
 ## Isochrones map
 
 ![NI isochrones](https://pbarber.github.io/ni-travel-app/ni-travel-maps.png)
