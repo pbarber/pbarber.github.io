@@ -1,7 +1,7 @@
 # Paul Barber's github.io
 
 * [linkedin](https://www.linkedin.com/in/pauljbarber/)
-* [twitter](https://twitter.com/paulblablah)
+* [bluesky](https://bsky.app/profile/paulbarber.bsky.social)
 * [github](https://github.com/pbarber)
 * [buymeacoffee](https://buymeacoffee.com/pbarber)
 
@@ -9,9 +9,20 @@
 
 Most recent first:
 
+* [Map Creator App](https://pbarber.github.io/map-creator-app/)
 * [NI Isochrones App](https://pbarber.github.io/ni-travel-app/)
 * [Map of the Rivers and Lakes of Ireland](https://github.com/pbarber/river-maps/blob/master/README.md)
 * [NI COVID-19 data Twitter/X bot](https://twitter.com/ni_covid19_data)
+
+## Google Trends visualised with Flourish
+
+[One for the non-squeamish](https://public.flourish.studio/story/2630542/) living in close proximity to school age children: a rough analysis of the annual peaks in head lice and nits.
+
+![Head lice seasonal trends from Google Trends](head-lice-google-trends-seasonal.png)
+
+I haven't used [Flourish](https://public.flourish.studio/story/2630542/) before, it's a user friendly service for publishing good quality data visualisations with context around them. It would be even better with more support for data wrangling.
+
+[Cursor](https://cursor.com/) wrote the code to pull down the dataset from Google Trends using [pytrends](https://github.com/GeneralMills/pytrends), demonstrating how the combination of web services, open source libraries and AI has changed coding into 'specify and test'.
 
 ## Isochrones map
 
