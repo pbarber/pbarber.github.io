@@ -1,7 +1,7 @@
 # Paul Barber's github.io
 
 * [linkedin](https://www.linkedin.com/in/pauljbarber/)
-* [bluesky](https://bsky.app/profile/paulbarber.bsky.social)
+* [bluesky](https://bsky.app/profile/paulbarber.github.io)
 * [github](https://github.com/pbarber)
 * [buymeacoffee](https://buymeacoffee.com/pbarber)
 
