@@ -14,6 +14,14 @@ Most recent first:
 * [Map of the Rivers and Lakes of Ireland](https://github.com/pbarber/river-maps/blob/master/README.md)
 * [NI COVID-19 data Twitter/X bot](https://twitter.com/ni_covid19_data)
 
+## New year, new me
+
+A quick [New Year visualisation](https://public.flourish.studio/visualisation/21031951/) of Google search trends for 'gym near me' shows, unsurprisingly, that the New Year week is the most popular time of year for people looking for a gym in the UK. The only exception is 2021 when the peak was delayed until lockdown ended.
+
+![Google search trends for 'gym near me'](gym-near-me-google-trends-seasonal.png)
+
+Data extracted from [Google Trends](https://trends.google.com/trends/explore?date=all&q=gym%20near%20me) using [pytrends](https://github.com/GeneralMills/pytrends). Visualised with [Flourish](https://public.flourish.studio/visualisation/21031951/).
+
 ## How not to fix a thing
 
 I like fixing things, be they real or software. I recently pulled a pair of guitar pedals out from under a bed and attempted to fix them. In the end I sold one, a [Carlsbro Echo](https://www.dirk-hendrik.com/carlsbro.html), for spare parts and managed to fix the other, a [Jim Dunlop GCB-95 Crybaby Wah](https://www.jimdunlop.com/cry-baby-standard-wah/).
