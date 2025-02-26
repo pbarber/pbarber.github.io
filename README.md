@@ -14,6 +14,25 @@ Most recent first:
 * [Map of the Rivers and Lakes of Ireland](https://github.com/pbarber/river-maps/blob/master/README.md)
 * [NI COVID-19 data Twitter/X bot](https://twitter.com/ni_covid19_data)
 
+## Sea level changes
+
+I wanted to see whether I could identify sea level rises from open datasets. The British Oceanographic Data Centre hosts readings from the [UK tide gauge network](https://www.bodc.ac.uk/data/hosted_data_systems/sea_level/uk_tide_gauge_network/). I chose the [gauge at Newlyn, Cornwall](https://ntslf.org/tides/uk-network/portinfo?port=Newlyn), as it has the longest, almost continuous record with data going back to 1915. I would have liked to have used the [Bangor station, in NI](https://ntslf.org/tides/uk-network/portinfo?port=Bangor), but the data after early 2016 is flagged as unreliable.
+
+Whichever way I look at the Newlyn data, it is clear that sea levels have been rising over the last 110 years:
+
+* the annual maximum (highest sea level each year) has increased by 30-40cm
+* the average daily level has increased by 25-30cm
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/21621496"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/21621496/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
+
+Looking at the data by decade, average sea level increased by 28 cm from the 1910s to the 2020s.
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/21658411"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/21658411/thumbnail" width="100%" alt="scatter visualization" /></noscript></div>
+
+I also produced a model of the typical sea level for each decade, this shows that each decade since the 1990s has had higher sea levels than any previous decade in the dataset.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/21658941"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/21658941/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
+
 ## New year, new me
 
 A quick [New Year visualisation](https://public.flourish.studio/visualisation/21031951/) of Google search trends for 'gym near me' shows, unsurprisingly, that the New Year week is the most popular time of year for people looking for a gym in the UK. The only exception is 2021 when the peak was delayed until lockdown ended.
