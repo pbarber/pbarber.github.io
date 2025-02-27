@@ -29,7 +29,7 @@ Looking at the data by decade, average sea level increased by 28 cm from the 191
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/21658411"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/21658411/thumbnail" width="100%" alt="scatter visualization" /></noscript></div>
 
-I also produced a model of the typical sea level for each decade, this shows that each decade since the 1990s has had higher sea levels than any previous decade in the dataset.
+I also produced a model of the typical sea level for each decade, this shows that each decade since the 1980s has had higher sea levels than any previous decade in the dataset.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/21658941"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/21658941/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 
