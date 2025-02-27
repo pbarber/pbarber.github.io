@@ -33,11 +33,13 @@ I also produced a model of the typical sea level for each decade, this shows tha
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/21658941"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/21658941/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 
+The code to create the dataset is [here](https://github.com/pbarber/uk-sea-level).
+
 ## New year, new me
 
 A quick [New Year visualisation](https://public.flourish.studio/visualisation/21031951/) of Google search trends for 'gym near me' shows, unsurprisingly, that the New Year week is the most popular time of year for people looking for a gym in the UK. The only exception is 2021 when the peak was delayed until lockdown ended.
 
-![Google search trends for 'gym near me'](gym-near-me-google-trends-seasonal.png)
+<div class="flourish-embed flourish-chart" data-src="visualisation/21031951"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/21031951/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 
 Data extracted from [Google Trends](https://trends.google.com/trends/explore?date=all&q=gym%20near%20me) using [pytrends](https://github.com/GeneralMills/pytrends). Visualised with [Flourish](https://public.flourish.studio/visualisation/21031951/).
 
