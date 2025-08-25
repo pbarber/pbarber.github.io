@@ -16,7 +16,7 @@ Most recent first:
 
 ## Transatlantic passenger liner records
 
-The Mauretania exhibits at the [Discovery Museum](https://www.northeastmuseums.org.uk/discoverymuseum) inspired me to look into the [Blue Riband records](https://en.wikipedia.org/wiki/Blue_Riband) for the fastest average Atlantic crossings for passenger liners. I couldn't find a good visualisation of the crossing times, so made this one using Flourish.
+The Mauretania display at the [Discovery Museum](https://www.northeastmuseums.org.uk/discoverymuseum) inspired me to look into the [Blue Riband records](https://en.wikipedia.org/wiki/Blue_Riband) for the fastest average Atlantic crossings for passenger liners. I couldn't find a good visualisation of the crossing times, so made this one using Flourish.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/24814498"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/24814498/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 
