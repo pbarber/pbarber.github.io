@@ -20,6 +20,8 @@ The Mauretania display at the [Discovery Museum](https://www.northeastmuseums.or
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/24814498"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/24814498/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 
+The data processing code is [here](https://github.com/pbarber/atlantic-crossings), based on a pair of tables loaded from the Wikipedia page linked above.
+
 The Mauretania was switched from coal to oil in the early 1920s, going from burning 1,000 tonnes of coal per day to burning 610 tonnes of oil. These would have produced roughly 2,860 tonnes of CO2 per day for coal and 1,830 tonnes after the the conversion. Taking the fastest crossing that Mauretania made (4.45 days) and assuming the maximum possible number of passengers (2,165) was carried, this would put the CO2 emissions for each passenger for a single crossing at 5.9 tonnes (coal) and 3.8 tonnes (oil). This compares to roughly 1 tonne for a one-way flight from Heathrow to JFK today.
 
 The best site I've found for calculating emissions for different modes of (modern-day) transport, including different legs via different modes, is [lowtrip](https://lowtrip.fr/).
